@@ -1,3 +1,8 @@
+#   Programa: HILL-CLIMBING E ILS
+#   Autor: Victor Hugo Santos
+#   Matéria: Meta-Heurísticas
+#   Professor: Marcus Henrique Soares Mendes
+
 import math
 
 def funcao_objetivo1(x, y):  # calcula o valor para a funcao objetivo do exercício 1

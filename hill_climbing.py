@@ -1,3 +1,8 @@
+#   Programa: HILL-CLIMBING E ILS
+#   Autor: Victor Hugo Santos
+#   Matéria: Meta-Heurísticas
+#   Professor: Marcus Henrique Soares Mendes
+
 import random
 import funcoes_objetivo
 
